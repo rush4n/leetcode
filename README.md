@@ -1,2 +1,2 @@
 # leetcode
-<img src="https://miro.medium.com/v2/resize:fit:1400/1*gBkMCGTAdSk4tu17SCa7RQ.png">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LeetCode_Logo_black_with_text.svg/1280px-LeetCode_Logo_black_with_text.svg.png">
