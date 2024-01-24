@@ -1,17 +1,16 @@
 class Solution {
-    static int[] searchRange(int[] nums, int target) {
+    public int[] searchRange(int[] nums, int target) {
         int[] answer = {-1, -1};
 
-        int start = search(nums, target, true);
-        int end = search(nums, target, false);
-
-        answer[0] = start;
-        answer[1] = end;
+        answer[0] = search(nums, target, true);
+        if (answer[0] != -1) {
+            answer[1] = search(nums, target, false);
+        }
 
         return answer;
     }
 
-    static int search(int[] nums, int target, boolean findStartIndex) {
+    public int search(int[] nums, int target, boolean findStartIndex) {
         int answer = -1;
         int start = 0;
         int end = nums.length - 1;
