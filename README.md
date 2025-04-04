@@ -21,4 +21,16 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/rush4n/leetcode/tree/master/1013-fibonacci-number) |
+## Array
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/rush4n/leetcode/tree/master/0217-contains-duplicate) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/rush4n/leetcode/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/rush4n/leetcode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
