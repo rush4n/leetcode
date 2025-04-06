@@ -29,6 +29,7 @@
 | [0027-remove-element](https://github.com/rush4n/leetcode/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/rush4n/leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/rush4n/leetcode/tree/master/0217-contains-duplicate) |
+| [2058-concatenation-of-array](https://github.com/rush4n/leetcode/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,4 +53,8 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rush4n/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rush4n/leetcode/tree/master/0027-remove-element) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/rush4n/leetcode/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
