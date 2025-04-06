@@ -25,6 +25,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rush4n/leetcode/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/rush4n/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/rush4n/leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/rush4n/leetcode/tree/master/0217-contains-duplicate) |
 ## Hash Table
@@ -45,4 +46,8 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/rush4n/leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/rush4n/leetcode/tree/master/0242-valid-anagram) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/rush4n/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
