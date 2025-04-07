@@ -47,12 +47,14 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/rush4n/leetcode/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/rush4n/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/rush4n/leetcode/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rush4n/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rush4n/leetcode/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/rush4n/leetcode/tree/master/0125-valid-palindrome) |
 ## Simulation
 |  |
 | ------- |
