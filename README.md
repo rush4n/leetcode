@@ -27,6 +27,7 @@
 | [0001-two-sum](https://github.com/rush4n/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rush4n/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rush4n/leetcode/tree/master/0027-remove-element) |
+| [0036-valid-sudoku](https://github.com/rush4n/leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/rush4n/leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/rush4n/leetcode/tree/master/0217-contains-duplicate) |
 | [2058-concatenation-of-array](https://github.com/rush4n/leetcode/tree/master/2058-concatenation-of-array) |
@@ -34,6 +35,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rush4n/leetcode/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/rush4n/leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/rush4n/leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/rush4n/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rush4n/leetcode/tree/master/0242-valid-anagram) |
@@ -59,4 +61,8 @@
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/rush4n/leetcode/tree/master/2058-concatenation-of-array) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/rush4n/leetcode/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
