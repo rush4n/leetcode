@@ -3,8 +3,11 @@ class Solution {
         int buy = prices[0];
         int maxProfit = 0;
 
-        for (int i = 0; i < prices.length; i++) {
-            if (prices[i] < buy) buy = prices[i];
+        for (int i = 1; i < prices.length; i++) {
+            if (prices[i] < buy) { 
+                buy = prices[i];
+                continue;
+            }
             int sell = prices[i] - buy;
             maxProfit = Math.max(maxProfit, sell);
         } 
