@@ -8,6 +8,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/rush4n/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/rush4n/leetcode/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/rush4n/leetcode/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/rush4n/leetcode/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -36,6 +37,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rush4n/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/rush4n/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/rush4n/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0189-rotate-array](https://github.com/rush4n/leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/rush4n/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/rush4n/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/rush4n/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -69,6 +71,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rush4n/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rush4n/leetcode/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/rush4n/leetcode/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/rush4n/leetcode/tree/master/0189-rotate-array) |
 ## Simulation
 |  |
 | ------- |
