@@ -4,7 +4,10 @@ class Solution {
         int maxProfit = 0;
 
         for (int i = 1; i < prices.length; i++) {
-            buy = Math.min(buy, prices[i]);
+            if (prices[i] < buy) {
+                buy = prices[i];
+                continue;
+            }
             maxProfit = Math.max(maxProfit, prices[i] - buy);
         } 
 
