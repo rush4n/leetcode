@@ -5,9 +5,13 @@ class Solution {
 
         for (int i = 0; i < nums.length; i++) {
             if (nums[i] == 1) currCount++ ;
-            else currCount = 0; 
-            count = Math.max(count, currCount);
+            else { 
+                count = Math.max(count, currCount);
+                currCount = 0; 
+            }
+            
         }
+        count = Math.max(count, currCount);
 
         return count;
     }
