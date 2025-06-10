@@ -41,6 +41,7 @@
 | [0189-rotate-array](https://github.com/rush4n/leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/rush4n/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/rush4n/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/rush4n/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/rush4n/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/rush4n/leetcode/tree/master/0485-max-consecutive-ones) |
 | [2058-concatenation-of-array](https://github.com/rush4n/leetcode/tree/master/2058-concatenation-of-array) |
@@ -115,4 +116,9 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/rush4n/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/rush4n/leetcode/tree/master/0303-range-sum-query-immutable) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/rush4n/leetcode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
