@@ -10,6 +10,7 @@
 | [0009-palindrome-number](https://github.com/rush4n/leetcode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/rush4n/leetcode/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/rush4n/leetcode/tree/master/1013-fibonacci-number) |
+| [1014-k-closest-points-to-origin](https://github.com/rush4n/leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -44,6 +45,7 @@
 | [0303-range-sum-query-immutable](https://github.com/rush4n/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/rush4n/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/rush4n/leetcode/tree/master/0485-max-consecutive-ones) |
+| [1014-k-closest-points-to-origin](https://github.com/rush4n/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [2058-concatenation-of-array](https://github.com/rush4n/leetcode/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -64,6 +66,7 @@
 | [0217-contains-duplicate](https://github.com/rush4n/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rush4n/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/rush4n/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/rush4n/leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## String
 |  |
 | ------- |
@@ -95,10 +98,12 @@
 | [0053-maximum-subarray](https://github.com/rush4n/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/rush4n/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/rush4n/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/rush4n/leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/rush4n/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/rush4n/leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -112,6 +117,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/rush4n/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/rush4n/leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -121,4 +127,8 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/rush4n/leetcode/tree/master/0303-range-sum-query-immutable) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/rush4n/leetcode/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
