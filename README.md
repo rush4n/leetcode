@@ -54,6 +54,7 @@
 | [0036-valid-sudoku](https://github.com/rush4n/leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/rush4n/leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/rush4n/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0160-intersection-of-two-linked-lists](https://github.com/rush4n/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/rush4n/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rush4n/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rush4n/leetcode/tree/master/0242-valid-anagram) |
@@ -79,6 +80,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rush4n/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rush4n/leetcode/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/rush4n/leetcode/tree/master/0125-valid-palindrome) |
+| [0160-intersection-of-two-linked-lists](https://github.com/rush4n/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/rush4n/leetcode/tree/master/0189-rotate-array) |
 ## Simulation
 |  |
@@ -131,4 +133,8 @@
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/rush4n/leetcode/tree/master/1014-k-closest-points-to-origin) |
+## Linked List
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/rush4n/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
