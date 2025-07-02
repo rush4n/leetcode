@@ -78,6 +78,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/rush4n/leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/rush4n/leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/rush4n/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/rush4n/leetcode/tree/master/0242-valid-anagram) |
@@ -160,5 +161,6 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/rush4n/leetcode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/rush4n/leetcode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
