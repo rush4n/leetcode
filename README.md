@@ -9,6 +9,7 @@
 | [0002-add-two-numbers](https://github.com/rush4n/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/rush4n/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/rush4n/leetcode/tree/master/0009-palindrome-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/rush4n/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/rush4n/leetcode/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/rush4n/leetcode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/rush4n/leetcode/tree/master/1014-k-closest-points-to-origin) |
@@ -42,6 +43,7 @@
 | [0053-maximum-subarray](https://github.com/rush4n/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rush4n/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/rush4n/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/rush4n/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/rush4n/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/rush4n/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/rush4n/leetcode/tree/master/0189-rotate-array) |
@@ -165,6 +167,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rush4n/leetcode/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/rush4n/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/rush4n/leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/rush4n/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/rush4n/leetcode/tree/master/0496-next-greater-element-i) |
