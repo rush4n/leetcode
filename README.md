@@ -141,6 +141,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/rush4n/leetcode/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/rush4n/leetcode/tree/master/0303-range-sum-query-immutable) |
 ## Geometry
 |  |
@@ -162,5 +163,6 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rush4n/leetcode/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/rush4n/leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/rush4n/leetcode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
