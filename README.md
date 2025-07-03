@@ -50,6 +50,7 @@
 | [0303-range-sum-query-immutable](https://github.com/rush4n/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/rush4n/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/rush4n/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/rush4n/leetcode/tree/master/0496-next-greater-element-i) |
 | [1014-k-closest-points-to-origin](https://github.com/rush4n/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [2058-concatenation-of-array](https://github.com/rush4n/leetcode/tree/master/2058-concatenation-of-array) |
 ## Hash Table
@@ -66,6 +67,7 @@
 | [0217-contains-duplicate](https://github.com/rush4n/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rush4n/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/rush4n/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/rush4n/leetcode/tree/master/0496-next-greater-element-i) |
 ## Sorting
 |  |
 | ------- |
@@ -165,4 +167,9 @@
 | [0020-valid-parentheses](https://github.com/rush4n/leetcode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/rush4n/leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/rush4n/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/rush4n/leetcode/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/rush4n/leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
